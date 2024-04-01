@@ -61,7 +61,7 @@ plt.show()
 
 
 <H3>Output:<H3>
-![image](https://github.com/VINUTHNA-2004/Ex-5--AAI/assets/95067307/c61ac368-e3b5-44bf-8c8b-187ac726dfbc)
+![image](https://github.com/VINUTHNA-2004/Ex-5--AAI/assets/95067307/567a36ac-73ae-44c9-98f4-402fe242d4cc)
 
 
 <H3>Results:</H3>
