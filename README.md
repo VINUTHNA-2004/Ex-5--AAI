@@ -60,7 +60,8 @@ plt.show()
 ```
 
 
-Output:
+### Output:
+
 ![image](https://github.com/VINUTHNA-2004/Ex-5--AAI/assets/95067307/35fec4b1-d52c-4330-b542-f64a871b92a2)
 
 
