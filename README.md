@@ -60,8 +60,8 @@ plt.show()
 ```
 
 
-<H3>Output:<H3>
-![image](https://github.com/VINUTHNA-2004/Ex-5--AAI/assets/95067307/567a36ac-73ae-44c9-98f4-402fe242d4cc)
+Output:
+![image](https://github.com/VINUTHNA-2004/Ex-5--AAI/assets/95067307/35fec4b1-d52c-4330-b542-f64a871b92a2)
 
 
 <H3>Results:</H3>
